@@ -2,7 +2,7 @@ name: Talos CSV Update
 
 on:
   schedule:
-    - cron: '*/10 * * * *' # Runs every day at midnight (UTC)
+    - cron: '*/30 * * * *' # Runs every day at midnight (UTC)
   workflow_dispatch:
   
 jobs:
