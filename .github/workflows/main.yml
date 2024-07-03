@@ -2,7 +2,7 @@ name: Talos CSV Update
 
 on:
   schedule:
-    - cron: '*/30 * * * *' # Runs every day at midnight (UTC)
+    - cron: '*/30 * * * *' # Runs every half-hour at midnight (UTC)
   workflow_dispatch:
   
 jobs:
@@ -27,6 +27,7 @@ jobs:
         run: |
           if [ -s data/new.csv ]; then
             echo "File is not empty."
+            sort -u data/new.csv # sort output
           else
             echo "File is empty."
             exit 1
