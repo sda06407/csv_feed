@@ -28,7 +28,8 @@ jobs:
           if [ -s data/new.csv ]; then
             echo "File is not empty."
             echo "Sort output."
-            sort -u data/new.csv -o data/new.csv # sort output
+            sort -u data/new.csv -o data/new.csv # sort output 
+            sed -i '/^$/d' data/new.csv # delete empty line
           else
             echo "File is empty."
             exit 1
