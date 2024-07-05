@@ -16,10 +16,19 @@ jobs:
       - name: Download New List
         run: |
           if curl -o data/new.csv -L https://talosintelligence.com/documents/ip-blacklist; then
-            echo "IP list download successful."
+            echo "IP list download completely."
           else
             echo "IP list download failed."
             exit 1
+          fi
+        
+      - name: Check Download success
+        run: |
+          if grep -q application-error data/new.csv ; then
+            echo "IP list download failed."
+            exit 1
+          else
+            echo "IP list download successful."
           fi
 
       - name: Check File Size
