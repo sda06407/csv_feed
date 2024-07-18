@@ -50,6 +50,7 @@ jobs:
           if ! diff -q data/feed.csv data/new.csv; then
             echo "Files are different."
             echo "DIFFERENT_CSV=true" >> $GITHUB_ENV
+            diff  data/feed.csv data/new.csv | grep '< ' | sed 's/< //g' > data/diff.csv
           else
             echo "Files are the same. Skipping commit."
             echo "DIFFERENT_CSV=false" >> $GITHUB_ENV
@@ -72,6 +73,12 @@ jobs:
           git checkout -b "$branch_name"
 
           git add data/feed.csv
+          if [ -s data/diff.csv ]; then
+            echo "Diff File is not empty."
+            git add data/diff.csv
+          else
+            echo "Diff File is empty."
+          fi
 
           git commit -m "Update File"
 
