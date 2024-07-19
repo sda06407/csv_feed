@@ -50,7 +50,7 @@ jobs:
           if ! diff -q data/feed.csv data/new.csv; then
             echo "Files are different."
             echo "DIFFERENT_CSV=true" >> $GITHUB_ENV
-            diff  data/feed.csv data/new.csv | grep '< ' | sed 's/< //g' > data/diff.csv
+            diff  data/feed.csv data/new.csv | grep '> ' | sed 's/> //g' > data/diff.csv
           else
             echo "Files are the same. Skipping commit."
             echo "DIFFERENT_CSV=false" >> $GITHUB_ENV
