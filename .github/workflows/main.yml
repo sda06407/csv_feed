@@ -23,9 +23,9 @@ jobs:
           pip3 install -U requests
           pip3 install -U datetime
           
-      - name: Run necessary python script
-        run: |
-          python parse.py > data/file_ioc.csv 2>/dev/null
+      #- name: Run necessary python script
+      #  run: |
+      #    python parse.py > data/file_ioc.csv 2>/dev/null
 
       - name: Download New List
         run: |
@@ -92,13 +92,6 @@ jobs:
             git add data/diff.csv
           else
             echo "Diff File is empty."
-          fi
-
-          if [ -s data/file_ioc.csv ]; then
-            echo "file_ioc File is not empty."
-            git add data/file_ioc.csv
-          else
-            echo "file_ioc File is empty."
           fi
 
           git commit -m "Update File"
