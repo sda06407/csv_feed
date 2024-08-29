@@ -17,13 +17,15 @@ jobs:
         run: |
           sudo apt-get update
           sudo apt-get install -y python3 python3-pip
-      - name: Install necessary pytohn module
+      - name: Install necessary python module
         run: |
           pip3 install -U BeautifulSoup4
           pip3 install -U requests
           pip3 install -U datetime
-          date
-          timedatectl
+          
+      - name: Run necessary python script
+        run: |
+          python parse.py > data/file_ioc.csv
 
       - name: Download New List
         run: |
@@ -90,6 +92,13 @@ jobs:
             git add data/diff.csv
           else
             echo "Diff File is empty."
+          fi
+
+          if [ -s data/file_ioc.csv ]; then
+            echo "file_ioc File is not empty."
+            git add data/file_ioc.csv
+          else
+            echo "file_ioc File is empty."
           fi
 
           git commit -m "Update File"
