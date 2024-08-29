@@ -22,6 +22,8 @@ jobs:
           pip3 install -U BeautifulSoup4
           pip3 install -U requests
           pip3 install -U datetime
+          date
+          timedatectl
 
       - name: Download New List
         run: |
