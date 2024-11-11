@@ -104,7 +104,7 @@
         <button type="submit" class="btn btn-primary">Accept</button>
         <div class="section_red_triangle"></div>
         <img class="cisco-logo" src="/assets/logo_cisco_grey.svg">
-        <input type="hidden" name="authenticity_token" id="authenticity_token" value="8rVRsRDQX3bgkq3WjcNn95X3f-0zoaVXgehYEWI4jCpR88hpf02tsogisLf_bmNgRyAbmiYSUym_pp6KTymJ7g" autocomplete="off" />
+        <input type="hidden" name="authenticity_token" id="authenticity_token" value="YJ_sEXZ1oDyo-_ckk8M83oncj7vCM5_MG1kke26mTqQnRplhib9jxjVtekFXNWZ09YIGh0IzrYmoFJ8-aAV39Q" autocomplete="off" />
         <li class="block-list-terms-section">
         <li>
         <p>©2024 Cisco and/or its affiliates. Snort, the Snort and Pig logo are registered trademarks of Cisco. All rights reserved.</p>
@@ -253,7 +253,7 @@
 <div class="navbar navbar-fixed-top" role="navigation">
 <head>
 <html lang="en">
-<meta name="csrf-token" content="3GoECxqYAPD3Xuh-vH4J63o-3Asn4lw5S7f1h_aVygl_LJ3TdQXyNJ_u9R_O0w18qOm4fDJRqkd1-TMc24TPzQ" />
+<meta name="csrf-token" content="7i8PZRotkRKs97mKErFgpxu6Lq5VSmqjP-JouGc8jdKp9noV5edS6DFhNO_WRzoNZ-SnktVKWOaMr9P9YZ-0gw" />
 <script>
 <section class="background_grey">
 <section id="footer_panel" class="footer_seventh" data-speed="4"  data-offsetY="512" data-type="background">
