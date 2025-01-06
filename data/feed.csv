@@ -104,7 +104,7 @@
         <button type="submit" class="btn btn-primary">Accept</button>
         <div class="section_red_triangle"></div>
         <img class="cisco-logo" src="/assets/logo_cisco_grey.svg">
-        <input type="hidden" name="authenticity_token" id="authenticity_token" value="aMQX-Tu1B8IKDYckLoBzfqh0cEnJ0pMZivuqCv0ZukGM9dRlot2hK9sbs87tNfhjtNuNBhu__PCwXMB9yygEHg" autocomplete="off" />
+        <input type="hidden" name="authenticity_token" id="authenticity_token" value="SSgojAS1KqddHjUCvc4hB5EOyZAfWuhcz0b3YLyjwL7g5HttU8_a9QaLtY6k9F3VsXTMkREip4GxYxmpIt3ffw" autocomplete="off" />
         <li class="block-list-terms-section">
         <li>
         <p>©2025 Cisco and/or its affiliates. Snort, the Snort and Pig logo are registered trademarks of Cisco. All rights reserved.</p>
@@ -254,9 +254,9 @@
 <div class="navbar navbar-fixed-top" role="navigation">
 <head>
 <html lang="en">
-<meta name="csrf-token" content="Lcz6jsl60riGlk290nIvYYVPKX9lTacR64LelQAfc8jJ_TkSUBJ0UVeAeVcRx6R8meDUMLcgyPjRJbTiNi7Nlw" />
+<meta name="csrf-token" content="iDf_oGAnDvUsOv-JKxfplzlqu8rW6izIoPrkxSVproMh-6xBN13-p3evfwUyLZVFGRC-y9iSYxXe3woMuxexQg" />
 <script type="text/javascript">(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam.nr-data.net"]}};(window.NREUM||(NREUM={})).loader_config={licenseKey:"5b6242f770",applicationID:"4046089"};;/*! For license information please see nr-loader-rum-1.277.0.min.js.LICENSE.txt */
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"5b6242f770","applicationID":"4046089","transactionName":"dwlWEksNXlQHRkwGC0MIVAlYBkEXAFgMAQ9rClEVTT1GXRBZEA==","queueTime":2,"applicationTime":11,"agent":""}</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"5b6242f770","applicationID":"4046089","transactionName":"dwlWEksNXlQHRkwGC0MIVAlYBkEXAFgMAQ9rClEVTT1GXRBZEA==","queueTime":2,"applicationTime":10,"agent":""}</script>
 <script>
 <section class="background_grey">
 <section id="footer_panel" class="footer_seventh" data-speed="4"  data-offsetY="512" data-type="background">
