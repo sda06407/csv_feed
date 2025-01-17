@@ -1,259 +1,98 @@
-                  List.
-                  except as authorized by Cisco;
-                  property notices or other marks from the List; or
-                  remove, change, or conceal any product identification, copyright, proprietary, intellectual
-                  reverse engineer, decompile, decrypt, disassemble, modify, or make derivative works of the
-                  service, or any other network or service.
-                  transfer, sell, sublicense, monetize or provide the functionality of the List to any third party,
-                  violate applicable laws or the rights of any third party; or
-                </li>
-                <li>
-                <li>impede or interfere with the security, stability, availability or performance of any Cisco
-                General Export Compliance</a> webpage.
-              (the “Agreement”) is a legal agreement between you (“You”) and Cisco Systems, Inc.
-              (“Cisco”) and governs Your use of the testing IP block list (the “List”). By downloading,
-              </ol>
-              <a href="https://www.cisco.com/c/en/us/about/legal/global-trade-legal-compliance/general-export-compliance.html"  target='_blank'>
-              <ol class="ordered-list-alphabetical">
-              <span class="block-list-terms-emphasis">Acceptable Use</span>. You will ensure Your access or use of Software or Subscription Offers does not:
-              <span class="block-list-terms-emphasis">Governing Law</span>. This Agreement shall be governed by and interpreted in accordance with the
-              <span class="block-list-terms-emphasis">Limited License</span>: Cisco hereby grants You a limited, non-exclusive, non-transferable, non-sub-licensable
-              <span class="block-list-terms-emphasis">Limits on Usage</span>. You may not:
-              <span class="block-list-terms-emphasis">Modification</span> Cisco may amend this Agreement from time to time. If You do not agree with
-              Agreement at any time and without notice.
-              Cisco Offers. Each party will comply with such laws and obtain all licenses or authorizations
-              Cisco may modify or terminate the List or stop maintaining the List at any time and
-              Cisco owns all right, title and interest in the List.
-              Cisco products and services are subject to US and other export control and sanctions
-              Cisco shall have no liability in connection with or relating to the license or
-              Cisco will not indemnify You in regard to any claims or liabilities arising
-              List is only part of the comprehensive IP block list provided by Talos through Cisco’s
-              No failure by Cisco to enforce any of its rights related to the List or to this Agreement
-              The Agreement is effective on the date You download or begin using the List.
-              This Testing IP Block List Terms and Conditions
-              You acknowledge and agree that the List is proprietary to Cisco.
-              You agree that the List is provided by Cisco “AS IS” with all faults and without warranty
-              are indicating your complete understanding and acceptance of all of the terms and conditions of
-              conditions contained in this Agreement, then Cisco is unwilling to license the List to You,
-              damages, or for any loss of use, data, information, profits, business, or goodwill,
-              does not warrant that the List is suitable for production or commercial use, will operate
-              however caused, even if advised of the possibility of such damages.
-              in a particular situation will act as a waiver of such rights.
-              in any way related to the use of the List.
-              in which case You may not download, install or use any of the List. If You do not agree to the
-              installing or using any of the List, you agree that this Agreement with Cisco is enforceable
-              it is required to maintain. Please refer to Cisco’s trade compliance policies at the
-              kind in relation to the List.
-              laws around the world. These laws govern the use, transfer, export and re -export of
-              laws of the State of California, excluding its conflict of laws provisions. If any provision
-              like any written contract signed by You. If You do not agree to all of the terms and
-              merchantability, fitness for a particular purpose, non-infringement, satisfactory quality,
-              non-interference, and accuracy, are hereby excluded and expressly disclaimed by Cisco. Cisco
-              of this Agreement is judged illegal, invalid, or otherwise unenforceable, that provision
-              or support of any kind. To the maximum extent permitted by law, all express and implied conditions,
-              properly, or is without error or defect. Cisco is not obligated to provide support of any
-              representations, and warranties including, without limitation, any implied warranty or condition of
-              right to download and use the List to test IP blocking functionality. You agree that the
-              security products and does not provide adequate protection.
-              shall be severed, and the rest of this Agreement shall remain in full force and effect.
-              such changes, You should discontinue using the List. Your continued use of the List will mean
-              terms and conditions of this Agreement, do not download, install or use the List. by selecting
-              that You agree to such changes to the Agreement.
-              this Agreement.
-              use of the list, including but not limited to direct, incidental, and consequential
-              without notice. Cisco may immediately suspend Your access to the List or terminate this
-              “i accept,” “ok,” “continue,” “yes,” “next” or by installing or using the List in any way, you
-            </li>
-            <li>
-            Additional Resources
-            Official Documentation
-          </a>
-          </ol>
-          <a id="nav_section0" href="https://snort.org/documents#OfficialDocumentation">
-          <a id="nav_section5" href="https://snort.org/documents#AdditionalResources">
-          <img src="/assets/snort_txt.png" alt="" height="50" class="visible-xs visible-sm ">
-          <ol class="ordered-list-decimal text-uppercase">
-          <ol class="ordered-list-decimal">
-          <span class="block-list-terms-header">Disclaimer</span>
-          <span class="block-list-terms-header">Export</span>
-          <span class="block-list-terms-header">General</span>
-          <span class="block-list-terms-header">Indemnification</span>
-          <span class="block-list-terms-header">Liability</span>
-          <span class="block-list-terms-header">Ownership of Intellectual Property</span>
-          <span class="block-list-terms-header">Scope and Applicability</span>
-          <span class="block-list-terms-header">Term and Termination</span>
-          <span class="block-list-terms-header">Use Rights</span>
-          <span class="sign-in-btn btn-danger">Sign In</span>
-          <span class="snortFont"></span>
-          <span>Community</span>
-          <span>Contact</span>
-          <span>Documents</span>
-          <span>Downloads</span>
-          <span>Products</span>
-          <span>Talos</span>
-        /
-        </a>
-        </li>
-        <a class="btn btn-default snort_search_btn" href="/rule-docs-search">
-        <a href="/">
-        <a href="/users/sign_in" class="text-center">
-        <a href="http://www.cisco.com/web/siteassets/legal/privacy.html">Privacy Policy</a> | <a href="/license">Snort License</a> | <a href="/faq">FAQ</a> | <a href="/sitemap.xml">Sitemap</a>
-        <a href="https://x.com/Snort"><span class="social-link">Follow us on <span class="hide">X</span><img alt="X" src="/assets/icon_x.svg"/></span></a>
-        <a role="button" class="btn btn-default" href="/downloads">Cancel</a>
-        <button id="submit_search" class="btn btn-default snort_search_btn" name="submit_search" type="submit">
-        <button type="submit" class="btn btn-primary">Accept</button>
-        <div class="section_red_triangle"></div>
-        <img class="cisco-logo" src="/assets/logo_cisco_grey.svg">
-        <input type="hidden" name="authenticity_token" id="authenticity_token" value="kkhAX3YbCu1N9Dy7b-Sy7-Tauqi0GWTKa3SMII_DCIA5oUgzKIy8rW45f3Z4eQcCmBwxZ16lNbiJH3ULCj8FCA" autocomplete="off" />
-        <li class="block-list-terms-section">
-        <li>
-        <p>©2025 Cisco and/or its affiliates. Snort, the Snort and Pig logo are registered trademarks of Cisco. All rights reserved.</p>
-        <span class="glyphicon glyphicon-search"></span></button>
-        <span class="icon-bar"></span>
-        <span class="new-feature"></span>
-        <span class="sr-only">Toggle navigation</span>
-        <span>Resources</span>
-        <span>Rule Doc Search</span>
-        Certification</a>
-        Downloads</a>
-        Mailing Lists
-        Rule Documents</a>
-        Snort Calendar
-        Submit a Bug
-        Talos Resources</a>
-      </a>
-      </button>
-      </div>
-      </form>
-      </li>
-      </ol>
-      <a class="text-center nav_snort_padding" href="/">
-      <a class="text-center nav_text_padding" href="/community">
-      <a class="text-center nav_text_padding" href="/contact">
-      <a class="text-center nav_text_padding" href="/documents">
-      <a class="text-center nav_text_padding" href="/downloads">
-      <a class="text-center nav_text_padding" href="/products">
-      <a class="text-center nav_text_padding" href="/resources">
-      <a class="text-center nav_text_padding" href="/talos">
-      <a id="nav_section0" class="new-feature-spacing" href="https://snort.org/community#snort_calendar">
-      <a id="nav_section0" href="https://snort.org//#get_started" class="subnav-position-left">Get Started</a>
-      <a id="nav_section0" href="https://snort.org/community#mailing_lists">
-      <a id="nav_section0" href="https://snort.org/contact#who_should_i_contact">Whom should I contact?</a>
-      <a id="nav_section0" href="https://snort.org/downloads#snort3-downloads">Snort</a>
-      <a id="nav_section0" href="https://snort.org/products#rule_subscriptions">Rule Subscriptions</a>
-      <a id="nav_section0" href="https://snort.org/resources" class="single-item-subnav">Videos</a>
-      <a id="nav_section0" href="https://snort.org/talos#talos_advisories">Talos Advisories</a>
-      <a id="nav_section1" href="https://snort.org//#documents">Documents</a>
-      <a id="nav_section1" href="https://snort.org/downloads#rules">Rules</a>
-      <a id="nav_section1" href="https://snort.org/products#education_certification" class="subnav-position-right">Education
-      <a id="nav_section1" href="https://snort.org/resources#documents" class="subnav-position-right">Documents</a>
-      <a id="nav_section1" href="https://snort.org/talos#additional_talos_resources" class="subnav-position-right">Additional
-      <a id="nav_section2" href="https://snort.org//#blogs" class="subnav-position-right">Blogs</a>
-      <a id="nav_section2" href="https://snort.org/downloads#openappid">OpenAppID</a>
-      <a id="nav_section2" href="https://snort.org/downloads/ip-block-list">IP Block List</a>
-      <a id="nav_section3" href="https://snort.org/downloads#additional_downloads" class="subnav-position-right">Additional
-      <a id="nav_section5" href="https://snort.org/community#submit_bug" class="subnav-position-right">
-      <a id="nav_section5" href="https://snort.org/contact#snortteam" class="subnav-position-right">The Snort Team</a>
-      <a id="nav_section8" href="https://snort.org/documents#preprocessor_documentation" class="subnav-position-right">Preprocessor Documentation</a>
-      <a id="nav_section9" href="https://snort.org/documents#latest_rule_documents" class="subnav-position-right">Latest
-      <a>Testing IP Block List Terms and Conditions</a>
-      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-      <div class="col-md-12">
-      <div class="col-xs-12 text-center">
-      <div class="col-xs-4 col-sm-3 col-md-2 pull-left">
-      <div class="hidden-xs hidden-sm col-md-12 col-lg-12 text-right" style="position: relative;margin-bottom: -120px;margin-left: -30px">
-      <form action="/downloads/ip-block-list/accept-terms" method="post">
-      <hr class="hr_xl_grey"></hr>
-      <input type="text" name="q" id="q" class="form-control" placeholder="Search..." />
-      <li>
-      <ol class="ordered-list-decimal">
-      Snort - Testing IP Block List Terms and Conditions
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    $("#error_messages").removeClass("in");
-    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                                                    <path fill-rule="evenodd" clip-rule="evenodd" fill="#f19615" d="M10.35,43.279c0.969-1.016,1.885-1.977,2.76-2.893
+                                                    <path fill-rule="evenodd" clip-rule="evenodd" fill="#f19615" d="M39.799,12.47c0.873-0.911,1.749-1.829,2.676-2.797
+                                                    <path fill-rule="evenodd" clip-rule="evenodd" fill="#f19615" d="M41.402,8.822c-0.99,1.027-1.994,2.021-2.935,3.072
+                                    C11.513,44.445,10.939,43.869,10.35,43.279"/>
+                                    C40.492,12.941,40.145,12.728,39.799,12.47"/>
+                                    C41.364,8.755,41.374,8.778,41.402,8.822"/>
+                                    C43.098,14.598,44.127,13.49,45.201,12.343"/>
+                                    c-0.312,0.35-0.616,0.416-1.036,0.415c-6.98-0.009-13.957-0.007-20.938-0.007c-2.039,0-3.561,1.514-3.561,3.557
+                                    c-1.069,1.162-2.15,2.314-3.229,3.469c-0.021,0.023-0.052,0.039-0.109,0.08c-0.159-0.188-0.323-0.369-0.471-0.562
+                                    c-2.535-3.348-4.119-7.102-4.605-11.268c-0.61-5.229,0.194-10.229,2.835-14.839c2.669-4.664,6.655-7.805,11.618-9.75
+                                    c-6.313,1.398-12.216,0.275-17.695-3.131c-0.441-0.273-0.847-0.6-1.266-0.904c-0.11-0.078-0.208-0.174-0.337-0.287
+                                    c0,6.504,0.002,13.008,0.006,19.512c0.002,0.973,0.011,1.943,0.004,2.914c0,0.133-0.04,0.301-0.127,0.393
+                                    c0.127-0.141,0.246-0.27,0.366-0.398c0.887-0.949,1.765-1.904,2.663-2.844c0.114-0.119,0.321-0.217,0.485-0.217
+                                    c0.213,0.369,0.376,0.762,0.639,1.072c0.265,0.312,0.627,0.539,0.98,0.832c-0.853,0.891-1.713,1.791-2.624,2.746
+                                    c0.605,0.564,1.195,1.112,1.816,1.691c-0.941,0.985-1.817,1.903-2.703,2.83c-0.276-0.339-0.511-0.688-0.807-0.975
+                                    c0.797-0.693,1.157-1.596,1.157-2.643c0.001-7.533,0.003-15.067-0.005-22.601c-0.002-0.309,0.088-0.524,0.3-0.743
+                                    c2.975,4.207,4.543,8.876,4.494,14.044c-0.05,5.452-1.643,10.386-5.186,14.593c-3.484,4.133-7.929,6.73-13.182,7.895
+                                    c3.205-1.257,6.533-1.852,9.977-1.621c4.478,0.298,8.553,1.754,12.227,4.325c0.101,0.072,0.197,0.151,0.291,0.229
+                                    c3.658-0.006,7.318,0,10.975,0.008c3.458,0.006,6.913,0.02,10.369,0.02c0.957,0,1.871-0.193,2.62-0.844
+                                <button class="primary">Talos Home</button>
+                                <path fill-rule="evenodd" clip-rule="evenodd" fill="#f19615" d="M45.201,12.343c0.378,0.48,0.758,0.925,1.096,1.401
+                            </a>
+                            </g>
+                            <a href="/" class="return">
+                            <g>
+                            <span class="error-code-message">
+                         OR YOU MISTYPED.
+                         SORRY, THIS PAGE DOES NOT EXIST.
+                         WE WERE OUT HUNTING BAD GUYS AND MUST HAVE MISSED UPDATING THIS LINK SOMEWHERE.
+                        </div>
+                        </svg>
+                        <div class="col-12">
+                        <div class="error-code-container">
+                        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" viewBox="0 0 55 55">
+                        ERROR 404
+                    </code>
+                    </div>
+                    </span>
+                    <code>
+                    <div class="button_area row">
+                    <span class="error-code">
+                    <span class="error-shield">
+                </div>
+                <div class="col-12">
+                flex-direction: column;
+                font-size: 6rem;
+                margin-top: 0;
+                margin: auto;
+                padding-left: 11%;
+                text-align:center
+                width: 300px;
+                width: fit-content;
+            .error-code-container{
+            .error-code{
+            .error-shield{
+            </div>
+            <div class="row">
+            code{
+            display: flex;
+            display: inline-block;
+            font-size: 10rem
+            margin-top: 60px;
+            margin: 75px auto 0px auto;
+            min-width: 850px;
+            padding-left:10px;
+            white-space: pre-line;
+            width: 400px;
+            width: fit-content;
+            }
+        .error-code-container{
+        .error-code-message{
+        .error-code{
+        .error-shield{
+        </div>
+        <div class="container-fluid full-height">
+        @media only screen and (max-width: 1000px) {
+        code{
+        }
     </div>
-    </li>
-    <div class="block_list_terms_container text-left">
-    <div class="navbar-collapse collapse">
-    <div class="navbar-header">
-    <div class="row">
-    <div class="section-title section_container" data-section="section0">
-    <div class="section_red_triangle"></div>
-    <div class="subnav_background hidden-xs">
-    <div id="error_messages">
-    <div>
-    <form action="/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" autocomplete="off" />
-    <li class=" community">
-    <li class=" contact">
-    <li class=" document">
-    <li class=" download">
-    <li class=" home">
-    <li class=" product">
-    <li class=" resources">
-    <li class=" talos">
-    <li>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  </div>
-  </title>
-  </ul>
-  <div class="col-md-12">
-  <div class="container">
-  <div class="container-fluid navbar-default snort_nav">
-  <div class="container-fluid" >
-  <div class="navbar-form navbar-left snort_search">
-  <div class="row text-center snort_top_bottom_spacing">
-  <div class="section_red_spacer_top"></div>
-  <link rel="stylesheet" href="/assets/application-daee7428cfee9286a1af0f6683e7a59ed79eab09f258500a8a8b2459d0b67464.css" media="all" />
-  <meta name="csrf-param" content="authenticity_token" />
-  <meta name="description" content="Snort - Testing IP Block List Terms and Conditions"/>
-  <meta name="google-site-verification" content="Bar8Bb_erb0n4UmyYaoljayW8AouJTjzdpqGL-xjFNs" />
-  <meta name="google-site-verification" content="OsTfemqSywy-bnEXlOi3UJbuJ5kjNVv4NJCyGryy4tQ" />
-  <meta name="keywords" content=""/>
-  <meta name="stripe-key" content="pk_live_YzTRajEQxSTzmJXSyQpm8cAR" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <script src="/assets/application-6735cd89d3b630361a9dd892655a7e53d698b300d916c4800783d3cb6e87e7e8.js"></script>
-  <script type="text/javascript" src="https://js.stripe.com/v2/"></script>
-  <script type="text/javascript" src="https://js.stripe.com/v3/"></script>
-  <title>
-  <ul class="nav navbar-nav navbar-right">
-  <ul class="text-right login_text">
-  <ul class="text-right subnav_text snort_subnav community">
-  <ul class="text-right subnav_text snort_subnav contact">
-  <ul class="text-right subnav_text snort_subnav document">
-  <ul class="text-right subnav_text snort_subnav download">
-  <ul class="text-right subnav_text snort_subnav home">
-  <ul class="text-right subnav_text snort_subnav product">
-  <ul class="text-right subnav_text snort_subnav resources">
-  <ul class="text-right subnav_text snort_subnav talos">
-  ga('create', 'UA-30016562-4', 'auto');
-  ga('send', 'pageview');
-  window.setTimeout((function() {
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-  }), 3000);
-<!--        <img src="/assets/darkpig.png" style="vertical-align: super;" />-->
-<!--        Snort Scholarship-->
-<!--      </a>-->
-<!--      <a id="nav_section4" href="">-->
-<!--    </li>-->
-<!--    <li>-->
+    </style>
+    <div id="page_wrapper">
+    <link rel="shortcut icon" type="image/x-icon" href="/assets/favicons/favicon.ico" />
+    <link rel="stylesheet" media="all" href="/assets/application.css" />
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="/assets/application.js"></script>
+    <style>
+    <title>Talos Website</title>
 <!DOCTYPE html>
-</a>      </div>
-</a>    </li>
-</a></form>  </div>
 </body>
 </div>
 </head>
 </html>
-</script>
-</section>
-<a href="#" id="back-top"></a>
-<body class="background_grey">
-<div class="container-fluid">
-<div class="login_background">
-<div class="navbar navbar-fixed-top" role="navigation">
+<body>
+<div id="body_container">
 <head>
-<html lang="en">
-<meta name="csrf-token" content="sMndaYB5XyCyvaUEr5SQmTym5KvEMrwNbdmzflDlW6QbINUF3u7pYJFw5sm4CSV0QGBvZC6O7X-PskpV1RlWLA" />
-<script>
-<section class="background_grey">
-<section id="footer_panel" class="footer_seventh" data-speed="4"  data-offsetY="512" data-type="background">
+<html>
