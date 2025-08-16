@@ -23,7 +23,7 @@
       <div class="cf-section cf-wrapper">
       <div class="cf-wrapper cf-header cf-error-overview">
       <span class="cf-footer-separator sm:hidden">&bull;</span>
-      <span class="hidden" id="cf-footer-ip">52.165.251.170</span>
+      <span class="hidden" id="cf-footer-ip">64.236.140.196</span>
       Your IP:
       cookieEl.style.display = 'block';
       var cookieEl = document.getElementById('cookie-alert');
@@ -32,7 +32,7 @@
     <div class="cf-alert cf-alert-error cf-cookie-error" id="cookie-alert" data-translate="enable_cookies">Please enable cookies.</div>
     <div id="cf-error-details" class="cf-error-details-wrapper">
     <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">96fdfc7f0c062ca2</strong></span>
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">96fe0decedf110ab</strong></span>
     <span class="cf-footer-separator sm:hidden">&bull;</span>
     <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
     window.addEventListener('DOMContentLoaded', function () {
