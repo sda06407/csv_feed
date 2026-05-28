@@ -16,7 +16,7 @@
         <h1 data-translate="block_headline">Sorry, you have been blocked</h1>
         <h2 class="cf-subheadline"><span data-translate="unable_to_access">You are unable to access</span> talosintelligence.com</h2>
         <span class="cf-footer-separator sm:hidden">&bull;</span>
-        <span class="hidden" id="cf-footer-ip">48.214.54.51</span>
+        <span class="hidden" id="cf-footer-ip">20.83.159.7</span>
         Your IP:
       </div><!-- /.captcha-container -->
       </div><!-- /.header -->
@@ -27,7 +27,7 @@
       <div class="cf-section cf-wrapper">
       <div class="cf-wrapper cf-header cf-error-overview">
       <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">a02cbf20ea903b1a</strong></span>
+      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">a02d2b680f3dd6eb</strong></span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
       <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
       cookieEl.style.display = 'block';
