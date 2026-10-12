@@ -1,1 +1,2 @@
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">a49268e40f6b6afb</strong></span>
+        <span class="hidden" id="cf-footer-ip">20.161.60.19</span>
+      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">a494b3b08a510c3d</strong></span>
